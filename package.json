@@ -1,6 +1,6 @@
 {
   "name": "anticaptcha2",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A simple client to solve captchas using https://anti-captcha.com",
   "main": "index.js",
   "scripts": {
@@ -31,7 +31,6 @@
   "dependencies": {
     "bluebird": "^3.5.3",
     "clone": "^2.1.2",
-    "request": "^2.88.0",
-    "request-promise": "^4.2.2"
+    "postman-request": "^2.88.1-postman.32"
   }
 }
